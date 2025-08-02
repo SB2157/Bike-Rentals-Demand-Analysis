@@ -26,7 +26,7 @@ This project analyzes historical bike rental data to understand user demand patt
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 
 ---
