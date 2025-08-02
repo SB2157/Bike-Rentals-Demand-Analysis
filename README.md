@@ -24,11 +24,10 @@ This project analyzes historical bike rental data to understand user demand patt
 
 ---
 
-## 📷 Dashboard Preview
+## 📊 Dashboard Preview
 
-*(Upload a screenshot image in the repo and embed it like below)*
+![Dashboard Screenshot](dashboard.png)
 
-![Dashboard Preview] (Dashboard.png)
 
 ---
 
